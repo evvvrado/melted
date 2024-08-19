@@ -1,0 +1,32 @@
+{
+	"name": "melted",
+	"displayName": "melted",
+	"description": "melting ur head",
+	"version": "0.0.1",
+	"publisher": "evvvrado",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/evvvrado/melted.git"
+	},
+	"author": {
+		"url": "https://x.com/evvvrado",
+		"email": "everaldocrj@gmail.com",
+		"name": "Everaldo Júnior"
+	},
+	"license": "./LICENSE",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "melted",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Melted Theme-color-theme.json"
+			}
+		]
+	}
+}
