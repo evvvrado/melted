@@ -1,8 +1,8 @@
 {
 	"name": "melted",
 	"displayName": "melted",
-	"description": "melting ur head",
-	"version": "0.0.1",
+	"description": "Theme for VS Code born from the hottest volcanoes. 🌋",
+	"version": "0.0.2",
 	"publisher": "evvvrado",
 	"repository": {
 		"type": "git",
@@ -13,6 +13,11 @@
 		"email": "everaldocrj@gmail.com",
 		"name": "Everaldo Júnior"
 	},
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"icon": "icon.png",
 	"license": "./LICENSE",
 	"engines": {
 		"vscode": "^1.92.0"
